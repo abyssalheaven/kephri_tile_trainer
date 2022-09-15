@@ -1,1 +1,1 @@
-# kephri_tile_trainer
+# Kephri Tile Puzzle Trainer

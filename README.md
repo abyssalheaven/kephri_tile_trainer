@@ -1,5 +1,8 @@
 # Kephri Tile Puzzle Trainer
 
+![image](./gui.png)
+
+
 ## Single File Executable
 
 I know downloading .exe files is a bit sus, but I just compiled the two python scripts into a single standalone executable if you don't feel like dealing with installing & running python scripts.
